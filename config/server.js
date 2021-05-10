@@ -1,7 +1,7 @@
 /***
  * This configuration applies for the default mode of Strapi which is
  * the development mode. The configuration for production mode is in the
- * ./env/production/server.js file.
+ * ./env/production/server.js file..
  */
 
 module.exports = ({ env }) => ({
