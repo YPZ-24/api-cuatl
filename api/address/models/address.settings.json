@@ -24,10 +24,10 @@
       "type": "string"
     },
     "noInt": {
-      "type": "integer"
+      "type": "string"
     },
     "noExt": {
-      "type": "integer"
+      "type": "string"
     },
     "cp": {
       "type": "integer"
